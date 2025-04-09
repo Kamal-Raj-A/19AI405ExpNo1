@@ -1,7 +1,7 @@
 
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Ashwath M</h3>
-<h3>Register Number:212223230023</h3>
+<h3>Name: Kamal raj A</h3>
+<h3>Register Number:212223040082</h3>
 
 
 <h3>AIM:</h3>
