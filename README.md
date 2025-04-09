@@ -288,8 +288,7 @@ if   __name__ == "__main__":
 
 ``` 
 ## OUTPUT:
-![Screenshot 2025-04-09 155852](https://github.com/user-attachments/assets/09321b9a-92f1-4de0-be2d-bc4a11bf29ac)
-
+![image](https://github.com/user-attachments/assets/84323cc7-8af0-4fbe-95f7-9fc0804f7bd1)
 
 
 ## RESULT:
