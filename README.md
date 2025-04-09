@@ -1,6 +1,7 @@
+
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Kamal raj A</h3>
-<h3>Register Number: 212223040082</h3>
+<h3>Name: Ashwath M</h3>
+<h3>Register Number:212223230023</h3>
 
 
 <h3>AIM:</h3>
@@ -42,7 +43,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ## PROGRAM:
-```pyhton
+```python
 1#!/usr/bin/env python
 # coding: utf-8
 
@@ -282,14 +283,13 @@ if   __name__ == "__main__":
         time.sleep(3)
 
 
-# In[ ]:
 
 
 
-
-```
+``` 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/89d76035-50df-4c11-a0bc-c0cafdafe517)
+![Screenshot 2025-04-09 155852](https://github.com/user-attachments/assets/09321b9a-92f1-4de0-be2d-bc4a11bf29ac)
+
 
 
 ## RESULT:
