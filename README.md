@@ -241,7 +241,8 @@ if   __name__ == "__main__":
         time.sleep(3)
 ``` 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/84323cc7-8af0-4fbe-95f7-9fc0804f7bd1)
+![image](https://github.com/user-attachments/assets/a3b510e1-52cc-4c5b-b226-31603f5c44ae)
+
 
 
 ## RESULT:
